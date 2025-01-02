@@ -1,4 +1,4 @@
-
+use schema demo;
 CREATE TABLE HELLO_WORLD
 (
    FIRST_NAME VARCHAR
